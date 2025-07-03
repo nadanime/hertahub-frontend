@@ -5,6 +5,19 @@
 ## Template Massively
 [HTML5 UP](https://html5up.net/massively)
 
+## Kelompok 1
+- Naufal Muhammad Daffa 20230140166
+- Ridwan Fahmidina Pamungkas 20230140185
+- Arthur Gerald Arya Wirayudha 20230140196
+- Afnan Asilah Prayogi 20230140153
+- Galang Yudha 20230140176
+- Avanro Naufal 20230140199
+- Ardhian Fadli Rabbani 20230140156
+- Rangga ramadhana 20230140155
+
+## Preview
+![Preview](/assets/img/preview/previeweb.png)
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)

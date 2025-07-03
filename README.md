@@ -16,7 +16,7 @@
 - Rangga ramadhana 20230140155
 
 ## Preview
-![Preview](/assets/img/preview/previeweb.png)
+![Preview](/images/preview/previeweb.png)
 
 Massively by HTML5 UP
 html5up.net | @ajlkn

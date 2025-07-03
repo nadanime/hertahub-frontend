@@ -17,6 +17,14 @@
 
 ## Preview
 ![Preview](/images/preview/previeweb.png)
+### Home
+![Home](/images/preview/preview-home.png)
+### Profile
+![Profile](/images/preview/preview-profile.png)
+### Forum
+![Forum](/images/preview/preview-forum.png)
+### Kelola User
+![Kelola User](/images/preview/preview-kelola-user.png)
 
 Massively by HTML5 UP
 html5up.net | @ajlkn

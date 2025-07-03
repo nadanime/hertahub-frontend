@@ -145,14 +145,43 @@ session_start();
         <div>
             <h2 class="title">Tentang HertaHub</h2>
             <p class="desc">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. In reiciendis iure laborum, veritatis aliquid
-                architecto. Facere fugit dolorum minima nobis repellat? Minus aperiam voluptas reprehenderit deserunt
-                possimus, harum veritatis excepturi?
-            </p>
-            <p class="desc">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto eius, non inventore nemo dolor
-                nesciunt placeat eaque consequuntur vel distinctio enim harum, sed atque quidem temporibus eos!
-                Officiis, excepturi impedit?
+                HertaHub adalah aplikasi forum berbasis web untuk tugas mata kuliah Pengembangan Desain Web 
+                <br>
+                yang dikembangkan oleh <b>Kelompok 1</b>, berikut adalah anggotanya :
+                <br>
+                <ol>
+                    <li>
+                    <b>Ridwan Fahmidina Pamungkas (20230140185)</b> - Pengembang fitur Forum
+                    </li>
+                    <br>
+                    <li>
+                    <b>Naufal Muhammad Daffa (20230140166)</b> - Manajemen Database & OAuth API
+                    </li>
+                    <br>
+                    <li>
+                    <b>Ardhian Fadli Rabbani (20230140156)</b> - Pengembang halaman Kelola User untuk role admin    
+                    </li>
+                    <br>
+                    <li>
+                    <b>Galang Yudha Priambodo (20230140176)</b> - Penyusun halaman Profile    
+                    </li>
+                    <br>
+                    <li>
+                    <b>Afnan Asilah Prayogi (20230140153)</b> - Pengembang Login/Register    
+                    </li>
+                    <br>
+                    <li>
+                    <b>Rangga Ramadhana (20230140155)</b> - Tester/QA    
+                    </li>
+                    <br>
+                    <li>
+                    <b>Avanro Naufal Teknologi Informasi (20230140199)</b> - Pengembang menu Login/Register    
+                    </li>
+                    <br>
+                    <li>
+                    <b>Arthur Gerald Arya Wirayudha (20230140196)</b> - Pengelola halaman Home    
+                    </li>
+                </ol>
             </p>
         </div>
     </div>
